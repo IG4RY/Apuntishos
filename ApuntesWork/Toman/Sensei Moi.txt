@@ -1,0 +1,12 @@
+Cosas para estudiar del sensei Moy:
+- Arreglos
+- Funciones normal y flecha
+- Objetos
+- Métodos de arreglos-objetos y combinados
+- Asincronía
+- Try catch
+- Promise
+
+
+Puertos de PLCs
+Modbus: 502

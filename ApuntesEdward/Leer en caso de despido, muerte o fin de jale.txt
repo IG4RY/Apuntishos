@@ -1,0 +1,27 @@
+Contraseña iterneis:
+Ff6Lk2Aa1x
+
+~ ~ ~ ~ ~ Apps y archivos instalados por mí en caso de que se deba limpiar la PC. Todos son oficiales): ~ ~ ~ ~ ~
+
+
+~ ~ ~ Útiles para cualquiera (valen la pena no desinstalar): ~ ~ ~
+
+- Windows Terminal (muy útil para cualquiera).
+- Ubuntu 20.04.6 LTS (para no necesitar máquina virtual)
+- Acrobat Reader: manipulación de PDFs
+- Microsoft Office (lo único piraña es la activación)
+- Free Download Manager: Admin de descargas
+- Glary Utilities: App para desinstalar cosas de raíz, optimizar la compu y muchas funciones avanzadas como encriptación y cosas así).
+- Loom: Grabar pantalla en 720p y permite dibujar mientras
+- Blaze Text: Snippets para la PC. Ejemplo de snippet = Escribir "lista" y automáticamente pone una lista con 4 ejemplos. Personalizables
+- Audacity: Edición de audio simple y gratuito.
+
+- Carpetita "VSCode" en "Documentos". Aquí tengo algunos ejemplos de BD, proyectos personales.
+Dentro dentro de la carpeta "Toman...", los proyectos en los que colaboré o prácticas que hice con Moy
+
+
+~ ~ ~ Apps para uso personal ~ ~ ~
+
+- Carpetita en escritorio de "Eddy Scz". Tiene mis fondos de pantalla y herramientas que uso.
+- PowerToys: tiene muchas funciones pero yo la uso más para cuenta gotas de toda la pantalla).
+- Brotato: jueguito ligero
